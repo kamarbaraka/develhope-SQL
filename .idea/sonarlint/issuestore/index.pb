@@ -10,3 +10,11 @@ D
 excersises/where.sql,d\5\d5cc973c16be800c8320153e32856937a2e2cf96
 F
 excersises/as_view.sql,b\d\bd2054c109228227f6c08c430d50076771f839b8
+O
+excersises/select_functions.sql,1\e\1e23fd573c345b0e199e71a71d594de68451059e
+Q
+!excersises/grouping_count_sum.sql,8\8\88685eee19d474bc71ffc16ca2b7a7ca865c2120
+T
+$excersises/alter_table_constrain.sql,6\d\6d9690b79685b3381723f1f4b74bebd675cf95a5
+`
+0excersises/primarykey_update_delete_truncate.sql,3\8\384fa7cbb7b6915b06fa08bebcc5f90a02fe4409
